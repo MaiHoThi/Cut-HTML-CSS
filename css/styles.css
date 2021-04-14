@@ -498,3 +498,25 @@ div.content-udamy{
 .khoiabso .layer  .layer2:hover{
   opacity: 0;
 }
+/* Tiin */
+.tiin{
+  position: relative;
+  width: 310px;
+  height: 240px;
+}
+.tiin .layerimg{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+}
+.tiin .layerimg img{
+  width: 310px;
+  height: 240px;
+}
+.tiin .layertiin{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 2;
+}
