@@ -1,0 +1,11 @@
+/*	 Add new font-family 
+web: http://fontchu.com/unicode.htm;
+
+*/	@font-face{
+			src:url(../UVNBachDang_R.TTF);
+			font-family: bachdang;
+		}
+		@font-face{
+				src:url(../UVNBanhMi.TTF);
+				font-family: banhmi;
+				}
